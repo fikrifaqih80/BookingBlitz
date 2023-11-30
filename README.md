@@ -14,7 +14,7 @@
 👉 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
     Create a database with name db_bb
-    Import db_bb file(given inside the zip package in SQL file folder)
+    Import db_bb file
    
 👉 Run the script 
     
